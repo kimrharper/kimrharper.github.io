@@ -5,6 +5,7 @@ body {
   grid-template-columns: 1fr; /* three columns  */
   grid-template-rows: 25px 50px 100% 50px; /* two rows  */
    grid-template-columns: 75px 100px;
+    font-family: 'Raleway', sans-serif;
   grid-auto-flow: column;
     max-width: 500px;
     min-width: 400px;
