@@ -9,6 +9,7 @@ body {
   grid-auto-flow: column;
     max-width: 500px;
     min-width: 400px;
+    background-image: url(/photos/landscape/001.jpg);
 }
 
 nav {
@@ -18,11 +19,20 @@ nav {
 }
 
 aside {
-  grid-column: 1 / 1;
-  grid-row: 3 / 4;
-  align-self: start;
+    grid-column: 1 / 1;
+    grid-row: 3 / 4;
+    align-self: start;
     margin-right: 20px;
+    background: url(../photos/aside.png);
+    background-size: contain;
+    height: 700px;
+    width: 200px;
+    background-position-y: -100px;
+    margin: 5px;
+    order: -1;
+    background-repeat: repeat-y;
 }
+
 
 header {
   grid-column: 1 / 5;
@@ -44,46 +54,53 @@ main {
     max-width: inherit;
 }
 
+div {
+    color: white;
 
+}
 
 .i1 {
-  background-color: white;
-  box-shadow: 5px 5px 10px black;
-  height: 200px;
-width: 200px;
-    border: solid 1px;
+    background: url(../photos/landscape/007.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position-y: -300px;
+    height: 200px;
+    width: 100%;
     margin: 5px;
-       border-color: lightgray;
 }
 
 .i2 {
-  background-color: white;
-  box-shadow: 5px 5px 10px black;
-  height: 200px;
-  width: 200px;
-    border: solid 1px;
+    background: url(../photos/landscape/005.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
     margin: 5px;
-       border-color: lightgray;
 }
 
 .i3 {
-  background-color: white;
-  box-shadow: 5px 5px 10px black;
-  height: 200px;
-width: 200px;
-    border: solid 1px;
+    background: url(../photos/landscape/008.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 500px;
     margin: 5px;
-    border-color: lightgray;
 }
 
 .i4 {
-  background-color: white;
-  box-shadow: 5px 5px 10px black;
-  height: 200px;
-  width: 200px;
+    background: url(../photos/landscape/006.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position-y: 100px;
+    height: 200px;
+    width: 500px;
     border: solid 1px;
     margin: 5px;
-       border-color: lightgray;
+    border-color: lightgray;
 }
 
 
@@ -96,7 +113,7 @@ width: 200px;
 footer {
   grid-column: 1 / 5;
   grid-row: 4 / 5;
-  background-color: lightyellow;
+  background-color: white;
   align-self: end;
     font-size: x-small;
 }
