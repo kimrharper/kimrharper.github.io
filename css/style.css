@@ -19,7 +19,6 @@ nav {
 aside {
   grid-column: 1 / 1;
   grid-row: 3 / 4;
-  background-color: green;
   align-self: start;
     margin-right: 20px;
 }
@@ -29,12 +28,12 @@ header {
   grid-row: 2 / 3;
   background-color: white;
   align-self: start;
+    font-size: 2em;
 }
 
 main {
   grid-column: 2 / 4;
   grid-row: 3 / 4;
-  background-color: blue;
   display: flex;
   align-self: self-end;
   flex-flow: wrap;
@@ -50,7 +49,7 @@ main {
   background-color: white;
   box-shadow: 5px 5px 10px black;
   height: 200px;
-width: 100px;
+width: 200px;
     border: solid 1px;
     margin: 5px;
        border-color: lightgray;
@@ -60,7 +59,7 @@ width: 100px;
   background-color: white;
   box-shadow: 5px 5px 10px black;
   height: 200px;
-  width: 100px;
+  width: 200px;
     border: solid 1px;
     margin: 5px;
        border-color: lightgray;
@@ -70,7 +69,7 @@ width: 100px;
   background-color: white;
   box-shadow: 5px 5px 10px black;
   height: 200px;
-width: 100px;
+width: 200px;
     border: solid 1px;
     margin: 5px;
     border-color: lightgray;
@@ -80,7 +79,7 @@ width: 100px;
   background-color: white;
   box-shadow: 5px 5px 10px black;
   height: 200px;
-  width: 100px;
+  width: 200px;
     border: solid 1px;
     margin: 5px;
        border-color: lightgray;
@@ -101,3 +100,6 @@ footer {
     font-size: x-small;
 }
 
+main div:nth-child(even) {
+    align-self: flex-end;
+}
