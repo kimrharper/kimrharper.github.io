@@ -24,7 +24,7 @@
     <session id="-2007253979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
@@ -275,8 +275,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-170" y="105" width="1087" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="210" y="88" width="1087" height="877" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18574108" />
       <window_info id="Structure" order="1" weight="0.25" />
