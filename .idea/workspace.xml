@@ -15,6 +15,7 @@
     <session id="-2007253979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="2" />
@@ -35,14 +36,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="48" />
-          <entry key="html" value="1198" />
+          <entry key="css" value="51" />
+          <entry key="html" value="1318" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="48" />
-          <entry key="HTML" value="1193" />
+          <entry key="CSS" value="51" />
+          <entry key="HTML" value="1313" />
           <entry key="Scratch" value="5" />
         </counts>
       </usages-collector>
@@ -53,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="257" column="42" lean-forward="true" selection-start-line="257" selection-start-column="42" selection-end-line="257" selection-end-column="42" />
+            <state relative-caret-position="155">
+              <caret line="76" column="15" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -62,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/style_blue_blend.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4328">
-              <caret line="904" column="17" lean-forward="true" selection-start-line="904" selection-start-column="17" selection-end-line="904" selection-end-column="17" />
+            <state relative-caret-position="8153">
+              <caret line="910" column="20" lean-forward="true" selection-start-line="910" selection-start-column="20" selection-end-line="910" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -286,15 +287,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/style_blue_blend.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4328">
-          <caret line="904" column="17" lean-forward="true" selection-start-line="904" selection-start-column="17" selection-end-line="904" selection-end-column="17" />
+        <state relative-caret-position="8153">
+          <caret line="910" column="20" lean-forward="true" selection-start-line="910" selection-start-column="20" selection-end-line="910" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="257" column="42" lean-forward="true" selection-start-line="257" selection-start-column="42" selection-end-line="257" selection-end-column="42" />
+        <state relative-caret-position="155">
+          <caret line="76" column="15" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
         </state>
       </provider>
     </entry>
