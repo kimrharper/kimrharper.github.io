@@ -10,16 +10,33 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2007253979">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1086" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1086" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="186" column="5" lean-forward="true" selection-start-line="186" selection-start-column="5" selection-end-line="186" selection-end-column="5" />
-              <folding>
-                <element signature="e#18646#18652#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1962">
+              <caret line="729" column="69" selection-start-line="729" selection-start-column="69" selection-end-line="729" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -27,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project-heartdisease.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185840">
+            <state relative-caret-position="167466">
               <caret line="12877" column="2" selection-start-line="12877" selection-start-column="2" selection-end-line="12877" selection-end-column="2" />
             </state>
           </provider>
@@ -36,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/style_blue_blend.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15470">
+            <state relative-caret-position="11830">
               <caret line="910" column="20" selection-start-line="910" selection-start-column="20" selection-end-line="910" selection-end-column="20" />
             </state>
           </provider>
@@ -64,6 +81,7 @@
       <find>site still under develop</find>
       <find>codewars</find>
       <find>about-btn</find>
+      <find>models</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,28 +106,38 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="151" />
     <option name="y" value="23" />
-    <option name="width" value="1536" />
-    <option name="height" value="974" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,10 +170,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="151" y="23" width="1536" height="974" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1742323" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17406625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -163,6 +191,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/stylesheets/style.css">
@@ -219,27 +250,24 @@
     <entry file="file://$PROJECT_DIR$/single-portfolio.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/style_blue_blend.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15470">
-          <caret line="910" column="20" selection-start-line="910" selection-start-column="20" selection-end-line="910" selection-end-column="20" />
+        <state relative-caret-position="1962">
+          <caret line="729" column="69" selection-start-line="729" selection-start-column="69" selection-end-line="729" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project-heartdisease.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185840">
+        <state relative-caret-position="167466">
           <caret line="12877" column="2" selection-start-line="12877" selection-start-column="2" selection-end-line="12877" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/style_blue_blend.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="186" column="5" lean-forward="true" selection-start-line="186" selection-start-column="5" selection-end-line="186" selection-end-column="5" />
-          <folding>
-            <element signature="e#18646#18652#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="11830">
+          <caret line="910" column="20" selection-start-line="910" selection-start-column="20" selection-end-line="910" selection-end-column="20" />
         </state>
       </provider>
     </entry>
