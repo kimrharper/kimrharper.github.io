@@ -14,18 +14,19 @@
     <session id="-2007253979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1177" />
+          <entry key="html" value="1208" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1177" />
+          <entry key="HTML" value="1208" />
         </counts>
       </usages-collector>
     </session>
@@ -35,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="1212" column="133" selection-start-line="1212" selection-start-column="133" selection-end-line="1212" selection-end-column="133" />
+            <state relative-caret-position="306">
+              <caret line="158" column="71" lean-forward="true" selection-start-line="158" selection-start-column="71" selection-end-line="158" selection-end-column="71" />
               <folding>
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -255,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="1212" column="133" selection-start-line="1212" selection-start-column="133" selection-end-line="1212" selection-end-column="133" />
+        <state relative-caret-position="306">
+          <caret line="158" column="71" lean-forward="true" selection-start-line="158" selection-start-column="71" selection-end-line="158" selection-end-column="71" />
           <folding>
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
           </folding>
