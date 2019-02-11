@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="765" column="71" selection-start-line="765" selection-start-column="71" selection-end-line="765" selection-end-column="71" />
+            <state relative-caret-position="277">
+              <caret line="831" column="74" selection-start-line="831" selection-start-column="74" selection-end-line="831" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -84,6 +84,7 @@
       <find>codewars</find>
       <find>about-btn</find>
       <find>models</find>
+      <find>one hot</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -248,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="765" column="71" selection-start-line="765" selection-start-column="71" selection-end-line="765" selection-end-column="71" />
+        <state relative-caret-position="277">
+          <caret line="831" column="74" selection-start-line="831" selection-start-column="74" selection-end-line="831" selection-end-column="74" />
         </state>
       </provider>
     </entry>
