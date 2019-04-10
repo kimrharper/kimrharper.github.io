@@ -15,21 +15,21 @@
     <session id="-2007253979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="2059" />
+          <entry key="html" value="2080" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2059" />
+          <entry key="HTML" value="2080" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="337" column="98" selection-start-line="337" selection-start-column="98" selection-end-line="337" selection-end-column="98" />
+            <state relative-caret-position="545">
+              <caret line="201" column="128" selection-start-line="201" selection-start-column="128" selection-end-line="201" selection-end-column="128" />
             </state>
           </provider>
         </entry>
@@ -282,8 +282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="337" column="98" selection-start-line="337" selection-start-column="98" selection-end-line="337" selection-end-column="98" />
+        <state relative-caret-position="545">
+          <caret line="201" column="128" selection-start-line="201" selection-start-column="128" selection-end-line="201" selection-end-column="128" />
         </state>
       </provider>
     </entry>
