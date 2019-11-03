@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02771d62-832b-4264-a45d-927b0a4800ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BikeForecasting-RH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/BikeForecasting-RH.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurriculumDesign-IELTS-SEC.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumDesign-IELTS-SEC.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurriculumDesign-ISP.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumDesign-ISP.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurriculumDesign-Practicum.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CurriculumDesign-Practicum.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot_blip-Marianne_Gagnon-120342607.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/BikeForecasting-RH.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/CurriculumDesign-IELTS-SEC.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/CurriculumDesign-ISP.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/CurriculumDesign-Practicum.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/Robot_blip-Marianne_Gagnon-120342607.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/2013041258740153.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/big-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/big-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/blog-lang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/boardgamereview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/chineseimg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/class-heartdisease.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/dc_cert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/diabetes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/edge.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/feature_labels.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/heartdisease.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/heartdisease.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/ielts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/isp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/movies-boxplot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/network_modeling-compressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/nlp-classification.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/nlp-clustering.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/novelist.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/portfolio-1a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/portfolio-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/portfolio-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/portfolio-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/practicum.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/project-forecasting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/segmentation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/sts_outreach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdsg/images/portfolios/kenny_stock.png" beforeDir="false" afterPath="$PROJECT_DIR$/pdsg/images/portfolios/kenny_stock.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pdsg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pdsg/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-bgreview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-bikeforecasting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-boardgamereview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-chinese_exploration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-diabetes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-edge_detector.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-heartdisease.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-lang8-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-lang8-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-lang8-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-mf-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-mf-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-mf-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-moviegenre.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-novelists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-simpleregression.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/project-sts_network.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/rh-cv-old.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/rh-cv.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/rh-e-cv.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/single-blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdsg/single-portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rh-cv-old.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/rh-cv-old.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rh-cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/rh-cv.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rh-e-cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/rh-e-cv.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,13 +26,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="3" />
-          <entry key="html" value="3054" />
+          <entry key="html" value="3090" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="3054" />
+          <entry key="HTML" value="3090" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -129,13 +66,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pdsg/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="378" column="80" selection-start-line="378" selection-start-column="80" selection-end-line="378" selection-end-column="80" />
+            <state relative-caret-position="276">
+              <caret line="412" column="71" selection-start-line="412" selection-start-column="71" selection-end-line="412" selection-end-column="71" />
               <folding>
                 <element signature="e#21321#21327#0" expanded="true" />
                 <element signature="e#22029#22035#0" expanded="true" />
                 <element signature="e#16716#16722#0" expanded="true" />
                 <element signature="e#17516#17522#0" expanded="true" />
+                <element signature="e#18354#18360#0" expanded="true" />
+                <element signature="e#19110#19116#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -445,13 +384,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pdsg/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="378" column="80" selection-start-line="378" selection-start-column="80" selection-end-line="378" selection-end-column="80" />
+        <state relative-caret-position="276">
+          <caret line="412" column="71" selection-start-line="412" selection-start-column="71" selection-end-line="412" selection-end-column="71" />
           <folding>
             <element signature="e#21321#21327#0" expanded="true" />
             <element signature="e#22029#22035#0" expanded="true" />
             <element signature="e#16716#16722#0" expanded="true" />
             <element signature="e#17516#17522#0" expanded="true" />
+            <element signature="e#18354#18360#0" expanded="true" />
+            <element signature="e#19110#19116#0" expanded="true" />
           </folding>
         </state>
       </provider>
