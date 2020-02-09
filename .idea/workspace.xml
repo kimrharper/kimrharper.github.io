@@ -27,13 +27,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="3" />
-          <entry key="html" value="3638" />
+          <entry key="html" value="3683" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="3" />
-          <entry key="HTML" value="3638" />
+          <entry key="HTML" value="3683" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -67,17 +67,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pdsg/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="379" column="126" selection-start-line="379" selection-start-column="126" selection-end-line="379" selection-end-column="126" />
+            <state relative-caret-position="196">
+              <caret line="186" column="55" lean-forward="true" selection-start-line="186" selection-start-column="55" selection-end-line="186" selection-end-column="55" />
               <folding>
                 <element signature="e#7422#7428#0" expanded="true" />
                 <element signature="e#7435#7441#0" expanded="true" />
                 <element signature="e#7444#7450#0" expanded="true" />
                 <element signature="e#8210#8216#0" expanded="true" />
                 <element signature="e#8223#8229#0" expanded="true" />
-                <element signature="e#9001#9007#0" expanded="true" />
+                <element signature="e#8968#8974#0" expanded="true" />
+                <element signature="e#9714#9720#0" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -411,17 +413,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pdsg/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="379" column="126" selection-start-line="379" selection-start-column="126" selection-end-line="379" selection-end-column="126" />
+        <state relative-caret-position="196">
+          <caret line="186" column="55" lean-forward="true" selection-start-line="186" selection-start-column="55" selection-end-line="186" selection-end-column="55" />
           <folding>
             <element signature="e#7422#7428#0" expanded="true" />
             <element signature="e#7435#7441#0" expanded="true" />
             <element signature="e#7444#7450#0" expanded="true" />
             <element signature="e#8210#8216#0" expanded="true" />
             <element signature="e#8223#8229#0" expanded="true" />
-            <element signature="e#9001#9007#0" expanded="true" />
+            <element signature="e#8968#8974#0" expanded="true" />
+            <element signature="e#9714#9720#0" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
